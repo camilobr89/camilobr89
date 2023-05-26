@@ -21,7 +21,7 @@
 
 <a href="https://www.linkedin.com/in/chirstian-barrera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcela-utria" height="20" width="30" /> Chirstian Camilo Barrera Salinas</a>
 <br>
-<a href="camilobr89@hotmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/80/80599.png" alt="marce_utria" height="30" width="30" /> santtiagomc@gmail.com</a>
+<a href="camilobr89@hotmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/80/80599.png" alt="marce_utria" height="30" width="30" /> camilobr89@hotmail.com</a>
     </ul>
 
 

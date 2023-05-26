@@ -33,5 +33,5 @@
 <p>Aplicación informativa de perros, en la que se puede buscar, filtrar, ordenar y crear nuevas rasas de perros.</p>
 <p>La informacion sobre los perros se trajeron por consumo de una API, fue desarrollada utilizando: HTML, CSS, Javascript, React, Redux, Node.js, PostgresSQL, y Express.js.</p>
 <br>
-<a href="#"><img src="[https://i.pinimg.com/564x/3b/5d/1b/3b5d1bc1b988db84c8821b4d2f321d07.jpg](https://bn02pap001files.storage.live.com/y4m8NiRu-l5gItdQwSOkC9iXj7NQgxGcWOY1fowBv62Su5EU19Hq_gZ5vylLrYkmJpxmByYqO55OwIVOsLe8BFXVaV-DDoBRuVh5S_I-n9TDwsxfLr1ZUyU95efY--X7WRBfrx5YMYlyWsb5qOwXaRNHVzuQaK0YfcJksiwBuSFWmXuR2v6ZE35p3c2QSFDavPFZsd5_ldCvhKjDN5oChxyuQ?encodeFailures=1&width=1625&height=831)" /></a>
+<a href="#"><img src="https://datachange.com.co/wp-content/uploads/2023/05/dogs.png" /></a>
 

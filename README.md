@@ -25,7 +25,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=camilobr89&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=camilobr89&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
 
 <h3 align="left">Contáctame en:</h3>
 

@@ -18,6 +18,15 @@
   <li>PostgreSQL</li>
 </ul>
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=camilobr89&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=camilobr89&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=camilobr89&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=camilobr89&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
+
 <h3 align="left">Contáctame en:</h3>
 
 <a href="https://www.linkedin.com/in/chirstian-barrera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcela-utria" height="20" width="30" /> Chirstian Camilo Barrera Salinas</a>

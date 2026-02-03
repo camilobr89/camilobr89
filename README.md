@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://crisscode.com"><img src="https://img.shields.io/badge/Portafolio-crisscode.com-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"/></a>
   <a href="https://www.linkedin.com/in/chirstian-barrera/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:camilobr89@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/camilobr89"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -13,11 +14,11 @@
 ---
 
 ## 👨‍💻 Sobre mí
-
 ```javascript
 const chirstian = {
     ubicacion: "Bogotá, Colombia 🇨🇴",
     rol: "Full Stack Developer @ Banco de Bogotá",
+    portafolio: "https://crisscode.com",
     background: "De infraestructura a desarrollo - 7+ años en IT",
     aprendiendo: ["Arquitecturas serverless", "Microfrontends"],
     hobbies: ["Poker 🃏", "Fitness 💪"]
@@ -77,7 +78,7 @@ Después de más de 7 años administrando infraestructura y servidores, di el sa
 ¿Tienes un proyecto interesante o quieres colaborar? ¡Escríbeme!
 
 <p align="center">
-  📱 (+57) 320 250 3378 • 📧 camilobr89@hotmail.com
+  🌐 <a href="https://crisscode.com"><strong>crisscode.com</strong></a> • 📱 (+57) 320 250 3378 • 📧 camilobr89@hotmail.com
 </p>
 
 ---

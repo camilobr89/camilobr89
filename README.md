@@ -1,46 +1,87 @@
-
 <h1 align="center">¡Hola! Soy Chirstian Barrera 👋🏼</h1>
-<h3 align="center">Soy Full Stack Web Developer de Colombia con experiencia en administración de plataformas de servidores. Mi enfoque se ha centrado principalmente en proyectos personales, en los que he creado aplicaciones orientadas al consumo de API. Aunque mi experiencia en desarrollo se ha nutrido de forma autodidacta, he logrado colaborar en distintos equipos para el desarrollo de diversos proyectos personales. Me considero una persona curiosa, siempre buscando estar actualizada y en constante crecimiento tanto a nivel personal como profesional.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santtiagomc&label=Profile%20views&color=0e75b6&style=flat" alt="mutriaxx" /> </p>
+<p align="center">
+  <strong>Full Stack Developer | Java & Spring Boot | React & Angular | AWS</strong>
+</p>
 
-<h3 align="left">Lenguajes y herramientas que utilizo:</h3>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>Java</li>
-  <li>React</li>
-  <li>Redux</li>
-  <li>Sequelize</li>
-  <li>Node.js</li>
-  <li>Bootstrap</li>
-  <li>PostgreSQL</li>
-</ul>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=camilobr89&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=camilobr89&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=camilobr89&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/chirstian-barrera/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:camilobr89@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/camilobr89"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
-<h3 align="left">Contáctame en:</h3>
+## 👨‍💻 Sobre mí
 
-<a href="https://www.linkedin.com/in/chirstian-barrera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcela-utria" height="20" width="30" /> Chirstian Camilo Barrera Salinas</a>
-<br>
-<a href="camilobr89@hotmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/80/80599.png" alt="marce_utria" height="30" width="30" /> camilobr89@hotmail.com</a>
-    </ul>
+```javascript
+const chirstian = {
+    ubicacion: "Bogotá, Colombia 🇨🇴",
+    rol: "Full Stack Developer @ Banco de Bogotá",
+    background: "De infraestructura a desarrollo - 7+ años en IT",
+    aprendiendo: ["Arquitecturas serverless", "Microfrontends"],
+    hobbies: ["Poker 🃏", "Fitness 💪"]
+};
+```
 
+Después de más de 7 años administrando infraestructura y servidores, di el salto al desarrollo de software. Hoy construyo aplicaciones bancarias que procesan miles de transacciones, combinando mi conocimiento de sistemas con código limpio y escalable.
 
+---
 
+## 🛠️ Stack Tecnológico
 
-<h3 align="left">Proyectos</h3>
-<hr>
-<h3 align="left">Dogs App</h3>
-<p>Aplicación informativa de perros, en la que se puede buscar, filtrar, ordenar y crear nuevas rasas de perros.</p>
-<p>La informacion sobre los perros se trajeron por consumo de una API, fue desarrollada utilizando: HTML, CSS, Javascript, React, Redux, Node.js, PostgresSQL, y Express.js.</p>
-<br>
-<a href="#"><img src="https://datachange.com.co/wp-content/uploads/2023/05/dogs.png" /></a>
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Cloud & Bases de Datos
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🚀 Lo que hago actualmente
+
+- 🏦 Desarrollo aplicaciones empresariales en el **sector bancario**
+- 🔧 Refactorizo monolitos a **arquitecturas modulares**
+- ☁️ Implemento soluciones **serverless con AWS**
+- 🎨 Construyo interfaces con **React/Angular + Microfrontends**
+
+---
+
+## 🎓 Formación
+
+| Programa | Institución |
+|----------|-------------|
+| Ingeniería de Sistemas | UNAD Colombia *(En curso)* |
+| Backend Java | Oracle Next Education - Alura |
+| Full Stack Developer | Henry Bootcamp |
+| MisiónTIC 2022 | Universidad Nacional de Colombia |
+
+---
+
+## 📫 ¿Hablamos?
+
+¿Tienes un proyecto interesante o quieres colaborar? ¡Escríbeme!
+
+<p align="center">
+  📱 (+57) 320 250 3378 • 📧 camilobr89@hotmail.com
+</p>
+
+---
+
+<p align="center">
+  <i>"De administrar servidores a escribir código que corre en ellos"</i>
+</p>
